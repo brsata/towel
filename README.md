@@ -1,7 +1,7 @@
 TowelDay
 
 
-http://brsata.github.com/towelday/
+http://brsata.github.io/towelday/
 
 
 http://havlugunu.com
